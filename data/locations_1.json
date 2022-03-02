@@ -1,0 +1,679 @@
+{
+  "0": {
+    "place_id": 162948730,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 248234579,
+    "lat": "40.728672149999994",
+    "lon": "-73.99874109999999",
+    "display_name": "532, Laguardia Place, Greenwich Village, Manhattan Community Board 2, Manhattan, New York, 10012, United States",
+    "address": {
+      "house_number": "532",
+      "road": "Laguardia Place",
+      "neighbourhood": "Greenwich Village",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10012",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7285963",
+      "40.728748",
+      "-73.9988608",
+      "-73.9986214"
+    ]
+  },
+  "1": {
+    "place_id": 125168632,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 108156090,
+    "lat": "40.72925325",
+    "lon": "-73.99625393609625",
+    "display_name": "New York University, Prince Street, Manhattan Community Board 2, Manhattan, New York, 10012, United States",
+    "address": {
+      "amenity": "New York University",
+      "road": "Prince Street",
+      "neighbourhood": "Manhattan Community Board 2",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10012",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7258656",
+      "40.73286",
+      "-74.0013399",
+      "-73.9934042"
+    ]
+  },
+  "2": {
+    "place_id": 23839397,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "node",
+    "osm_id": 2547083409,
+    "lat": "40.7255194",
+    "lon": "-73.9957018",
+    "display_name": "154, Crosby Street, NoHo Historic District, Manhattan, New York, 10012, United States",
+    "address": {
+      "house_number": "154",
+      "road": "Crosby Street",
+      "neighbourhood": "NoHo Historic District",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10012",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7254694",
+      "40.7255694",
+      "-73.9957518",
+      "-73.9956518"
+    ]
+  },
+  "3": {
+    "place_id": 188046451,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 371138221,
+    "lat": "40.72196855",
+    "lon": "-74.00334509196531",
+    "display_name": "27, Wooster Street, Manhattan Community Board 2, Manhattan, New York, 10013, United States",
+    "address": {
+      "house_number": "27",
+      "road": "Wooster Street",
+      "neighbourhood": "Manhattan Community Board 2",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10013",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7217906",
+      "40.7221465",
+      "-74.0035975",
+      "-74.0030927"
+    ]
+  },
+  "4": {
+    "place_id": 58410166,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "node",
+    "osm_id": 5164002622,
+    "lat": "40.7214724",
+    "lon": "-74.0043782",
+    "display_name": "The UPS Store, 305, West Broadway, Manhattan Community Board 2, Manhattan, New York County, New York, 10005, United States",
+    "address": {
+      "amenity": "The UPS Store",
+      "house_number": "305",
+      "road": "West Broadway",
+      "neighbourhood": "Manhattan Community Board 2",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10005",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7214224",
+      "40.7215224",
+      "-74.0044282",
+      "-74.0043282"
+    ]
+  },
+  "5": {
+    "place_id": 197282456,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 420888147,
+    "lat": "40.71211174668201",
+    "lon": "-74.00576314774241",
+    "display_name": "Park Row, Lower Manhattan, Civic Center, Manhattan, New York, 10007, United States",
+    "address": {
+      "road": "Park Row",
+      "quarter": "Lower Manhattan",
+      "neighbourhood": "Civic Center",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10007",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7120267",
+      "40.7121302",
+      "-74.0060876",
+      "-74.0056926"
+    ]
+  },
+  "6": {
+    "place_id": 60377808,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "node",
+    "osm_id": 5431121472,
+    "lat": "40.7118117",
+    "lon": "-74.0061816",
+    "display_name": "Park Row & Spruce Street, Park Row, Lower Manhattan, Financial District, Manhattan, New York, 10000, United States",
+    "address": {
+      "highway": "Park Row & Spruce Street",
+      "road": "Park Row",
+      "quarter": "Lower Manhattan",
+      "neighbourhood": "Financial District",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10000",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7117617",
+      "40.7118617",
+      "-74.0062316",
+      "-74.0061316"
+    ]
+  },
+  "7": {
+    "place_id": 257536686,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 808611022,
+    "lat": "40.710927213288876",
+    "lon": "-74.00294638626768",
+    "display_name": "Brooklyn Bridge Promenade, Lower Manhattan, Civic Center, Manhattan, New York, 10000, United States",
+    "address": {
+      "road": "Brooklyn Bridge Promenade",
+      "quarter": "Lower Manhattan",
+      "neighbourhood": "Civic Center",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10000",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7093524",
+      "40.7119071",
+      "-74.0041695",
+      "-74.0009538"
+    ]
+  },
+  "8": {
+    "place_id": 168934467,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 278042245,
+    "lat": "40.70590315",
+    "lon": "-74.00934490134394",
+    "display_name": "55, Wall Street, Manhattan Community Board 1, Manhattan, New York, 10005, United States",
+    "address": {
+      "house_number": "55",
+      "road": "Wall Street",
+      "neighbourhood": "Manhattan Community Board 1",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10005",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7056211",
+      "40.7062624",
+      "-74.0097812",
+      "-74.0089091"
+    ]
+  },
+  "9": {
+    "place_id": 169376661,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 278042231,
+    "lat": "40.70639335",
+    "lon": "-74.01068435237951",
+    "display_name": "15, Broad Street, Manhattan Community Board 1, Manhattan, New York, 10005, United States",
+    "address": {
+      "house_number": "15",
+      "road": "Broad Street",
+      "neighbourhood": "Manhattan Community Board 1",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10005",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7061005",
+      "40.7066975",
+      "-74.0110088",
+      "-74.010302"
+    ]
+  },
+  "10": {
+    "place_id": 169072816,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 278042239,
+    "lat": "40.70617615",
+    "lon": "-74.01033235684883",
+    "display_name": "43, Exchange Place, Manhattan Community Board 1, Manhattan, New York, 10005, United States",
+    "address": {
+      "house_number": "43",
+      "road": "Exchange Place",
+      "neighbourhood": "Manhattan Community Board 1",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10005",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7059807",
+      "40.7063155",
+      "-74.0105218",
+      "-74.0101023"
+    ]
+  },
+  "11": {
+    "place_id": 169326507,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 278053526,
+    "lat": "40.705737",
+    "lon": "-74.01017314789598",
+    "display_name": "Lord's Court Building, 40, Exchange Place, Manhattan Community Board 1, Manhattan, New York, 10005, United States",
+    "address": {
+      "building": "Lord's Court Building",
+      "house_number": "40",
+      "road": "Exchange Place",
+      "neighbourhood": "Manhattan Community Board 1",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10005",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7055495",
+      "40.705908",
+      "-74.0106506",
+      "-74.0099431"
+    ]
+  },
+  "12": {
+    "place_id": 327123284,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 494622097,
+    "lat": "40.702162099999995",
+    "lon": "-74.01500444402986",
+    "display_name": "SeaGlass Carousel, Brooklyn-Battery Tunnel, Battery Park City, Manhattan Community Board 1, Manhattan, New York County, New York, 10004, United States",
+    "address": {
+      "building": "SeaGlass Carousel",
+      "road": "Brooklyn-Battery Tunnel",
+      "neighbourhood": "Battery Park City",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10004",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7020713",
+      "40.7022396",
+      "-74.0151155",
+      "-74.0148944"
+    ]
+  },
+  "13": {
+    "place_id": 178639247,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 320784249,
+    "lat": "40.7020547",
+    "lon": "-74.01600163719351",
+    "display_name": "East Coast Memorial, Battery Park Underpass, Battery Park City, Manhattan Community Board 1, Manhattan, New York, 10004, United States",
+    "address": {
+      "historic": "East Coast Memorial",
+      "road": "Battery Park Underpass",
+      "neighbourhood": "Battery Park City",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10004",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7018443",
+      "40.7022882",
+      "-74.0163306",
+      "-74.0156886"
+    ]
+  },
+  "14": {
+    "place_id": 178639247,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 320784249,
+    "lat": "40.7020547",
+    "lon": "-74.01600163719351",
+    "display_name": "East Coast Memorial, Battery Park Underpass, Battery Park City, Manhattan Community Board 1, Manhattan, New York, 10004, United States",
+    "address": {
+      "historic": "East Coast Memorial",
+      "road": "Battery Park Underpass",
+      "neighbourhood": "Battery Park City",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10004",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7018443",
+      "40.7022882",
+      "-74.0163306",
+      "-74.0156886"
+    ]
+  },
+  "15": {
+    "place_id": 327123323,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "relation",
+    "osm_id": 13599516,
+    "lat": "40.70292825",
+    "lon": "-74.0165795081117",
+    "display_name": "Bosque Gardens, Battery Park Underpass, Manhattan Community Board 1, Manhattan, New York, 10004, United States",
+    "address": {
+      "leisure": "Bosque Gardens",
+      "road": "Battery Park Underpass",
+      "neighbourhood": "Manhattan Community Board 1",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10004",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.70215",
+      "40.7030549",
+      "-74.016986",
+      "-74.0159749"
+    ]
+  },
+  "16": {
+    "place_id": 97029840,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 5681925,
+    "lat": "40.701425128616414",
+    "lon": "-74.0155042772092",
+    "display_name": "Brooklyn-Battery Tunnel, Battery Park City, Red Hook Container Terminal, Brooklyn, New York, 10275, United States",
+    "address": {
+      "road": "Brooklyn-Battery Tunnel",
+      "neighbourhood": "Battery Park City",
+      "industrial": "Red Hook Container Terminal",
+      "borough": "Brooklyn",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10275",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.6817897",
+      "40.705292",
+      "-74.0156926",
+      "-74.0057595"
+    ]
+  },
+  "17": {
+    "place_id": 168820669,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 278053568,
+    "lat": "40.70135825",
+    "lon": "-74.01503510401213",
+    "display_name": "Battery Gardens, 1, Battery Place, Manhattan Community Board 1, Manhattan, New York, 10004, United States",
+    "address": {
+      "amenity": "Battery Gardens",
+      "house_number": "1",
+      "road": "Battery Place",
+      "neighbourhood": "Manhattan Community Board 1",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10004",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7011345",
+      "40.7015789",
+      "-74.0152275",
+      "-74.0148029"
+    ]
+  },
+  "18": {
+    "place_id": 131103689,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 128582381,
+    "lat": "40.76865995",
+    "lon": "-73.97728488998638",
+    "display_name": "Hecksher Playground, Dipway Arch, Manhattan, New York, 10106, United States",
+    "address": {
+      "leisure": "Hecksher Playground",
+      "road": "Dipway Arch",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10106",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7682219",
+      "40.7691031",
+      "-73.9780896",
+      "-73.9766727"
+    ]
+  },
+  "19": {
+    "place_id": 329634890,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 1023391991,
+    "lat": "40.76852235",
+    "lon": "-73.97567115913182",
+    "display_name": "Driprock Arch, Central Park Drive, Manhattan, New York County, New York, 10106, United States",
+    "address": {
+      "man_made": "Driprock Arch",
+      "road": "Central Park Drive",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10106",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7684471",
+      "40.7685975",
+      "-73.9758",
+      "-73.9755423"
+    ]
+  },
+  "20": {
+    "place_id": 329634890,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 1023391991,
+    "lat": "40.76852235",
+    "lon": "-73.97567115913182",
+    "display_name": "Driprock Arch, Central Park Drive, Manhattan, New York County, New York, 10106, United States",
+    "address": {
+      "man_made": "Driprock Arch",
+      "road": "Central Park Drive",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10106",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7684471",
+      "40.7685975",
+      "-73.9758",
+      "-73.9755423"
+    ]
+  },
+  "21": {
+    "place_id": 92957916,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "node",
+    "osm_id": 8873729191,
+    "lat": "40.7725104",
+    "lon": "-73.9725158",
+    "display_name": "Eagles and Prey, Former Drive, Manhattan, New York County, New York, 10153, United States",
+    "address": {
+      "tourism": "Eagles and Prey",
+      "road": "Former Drive",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10153",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7724604",
+      "40.7725604",
+      "-73.9725658",
+      "-73.9724658"
+    ]
+  },
+  "22": {
+    "place_id": 59375095,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "node",
+    "osm_id": 5356842201,
+    "lat": "40.7788635",
+    "lon": "-73.9685161",
+    "display_name": "79th Street Traverse Road @ Belvedere Castle, 79th Street Transverse, Manhattan, New York County, New York, 10075-0381, United States",
+    "address": {
+      "highway": "79th Street Traverse Road @ Belvedere Castle",
+      "road": "79th Street Transverse",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10075-0381",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7788135",
+      "40.7789135",
+      "-73.9685661",
+      "-73.9684661"
+    ]
+  },
+  "23": {
+    "place_id": 282548160,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "relation",
+    "osm_id": 3698894,
+    "lat": "40.7794396",
+    "lon": "-73.96338248033601",
+    "display_name": "The Metropolitan Museum of Art, 1000, 5th Avenue, Upper East Side, Manhattan, New York, 10035, United States",
+    "address": {
+      "tourism": "The Metropolitan Museum of Art",
+      "house_number": "1000",
+      "road": "5th Avenue",
+      "quarter": "Upper East Side",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10035",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7778736",
+      "40.78092",
+      "-73.9651438",
+      "-73.9616917"
+    ]
+  },
+  "24": {
+    "place_id": 107133682,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 26615871,
+    "lat": "40.789865649999996",
+    "lon": "-73.96205895676911",
+    "display_name": "Central Park Tennis Center, Jacqueline Kennedy Onassis Reservoir Running Path, Manhattan, New York, 10075-0381, United States",
+    "address": {
+      "leisure": "Central Park Tennis Center",
+      "road": "Jacqueline Kennedy Onassis Reservoir Running Path",
+      "suburb": "Manhattan",
+      "city": "New York",
+      "state": "New York",
+      "postcode": "10075-0381",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7893418",
+      "40.790497",
+      "-73.963203",
+      "-73.9609149"
+    ]
+  },
+  "25": {
+    "place_id": 168999452,
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https:\/\/osm.org\/copyright",
+    "osm_type": "way",
+    "osm_id": 278366155,
+    "lat": "40.797081000000006",
+    "lon": "-73.95145698832289",
+    "display_name": "Dana Discovery Center, 34, Central Park North, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10026, United States",
+    "address": {
+      "tourism": "Dana Discovery Center",
+      "house_number": "34",
+      "road": "Central Park North",
+      "quarter": "Harlem",
+      "neighbourhood": "Manhattan Community Board 10",
+      "suburb": "Manhattan",
+      "county": "New York County",
+      "state": "New York",
+      "postcode": "10026",
+      "country": "United States",
+      "country_code": "us"
+    },
+    "boundingbox": [
+      "40.7969513",
+      "40.7971907",
+      "-73.9515811",
+      "-73.9513332"
+    ]
+  }
+}
