@@ -10,7 +10,7 @@ suggest_titles.py parses the pre-processed location data and uses a few apis to 
 3. using natural language processing via NLTK library to rate suggestions based on VADER ( Valence Aware Dictionary for Sentiment Reasoning). VADER is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity (strength) of emotion. We rank suggestions based on positiveness!
 
 sample output -
-
+```
 ('beautiful amalfi', 0.5994)
 ('campania italian special one', 0.4019)
 ('picturesque sorrento (italy)', 0.3818)
@@ -18,5 +18,6 @@ sample output -
 ('the campania ~reflection~', 0.0)
 ("viva l'italia", 0.0)
 ...
+```
 
 this will be demoed during the interview...
